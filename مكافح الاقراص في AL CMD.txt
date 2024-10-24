@@ -1,0 +1,3 @@
+attrib -s -r -h /s /d C:\*.*     c: اسم القرص
+attrib +s +h "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini"
+attrib +s +h "%programdata%\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini"
